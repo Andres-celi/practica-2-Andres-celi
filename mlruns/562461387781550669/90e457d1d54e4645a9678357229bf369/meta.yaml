@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/90e457d1d54e4645a9678357229bf369/artifacts
+deleted_time: 1747443834625
+end_time: 1747443327815
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 90e457d1d54e4645a9678357229bf369
+run_name: kindly-vole-119
+run_uuid: 90e457d1d54e4645a9678357229bf369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443325312
+status: 3
+tags: []
+user_id: oacel

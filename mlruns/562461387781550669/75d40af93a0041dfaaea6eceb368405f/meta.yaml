@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/75d40af93a0041dfaaea6eceb368405f/artifacts
+deleted_time: 1747443834646
+end_time: 1747443115056
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 75d40af93a0041dfaaea6eceb368405f
+run_name: capable-rat-156
+run_uuid: 75d40af93a0041dfaaea6eceb368405f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443112949
+status: 4
+tags: []
+user_id: oacel

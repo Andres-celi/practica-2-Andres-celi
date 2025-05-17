@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/0e76953236e94fd3a6308edce5365b6c/artifacts
+deleted_time: 1747443834608
+end_time: 1747443348345
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 0e76953236e94fd3a6308edce5365b6c
+run_name: skillful-ram-428
+run_uuid: 0e76953236e94fd3a6308edce5365b6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443345913
+status: 3
+tags: []
+user_id: oacel

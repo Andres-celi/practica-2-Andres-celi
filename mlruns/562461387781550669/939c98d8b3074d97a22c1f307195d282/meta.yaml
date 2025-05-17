@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/939c98d8b3074d97a22c1f307195d282/artifacts
+deleted_time: 1747443834590
+end_time: 1747443366425
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 939c98d8b3074d97a22c1f307195d282
+run_name: likeable-pig-757
+run_uuid: 939c98d8b3074d97a22c1f307195d282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443363617
+status: 3
+tags: []
+user_id: oacel

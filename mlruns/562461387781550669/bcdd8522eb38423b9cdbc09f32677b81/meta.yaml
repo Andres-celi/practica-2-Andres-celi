@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/bcdd8522eb38423b9cdbc09f32677b81/artifacts
+deleted_time: 1747443834641
+end_time: 1747443219241
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: bcdd8522eb38423b9cdbc09f32677b81
+run_name: overjoyed-fish-310
+run_uuid: bcdd8522eb38423b9cdbc09f32677b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443219191
+status: 4
+tags: []
+user_id: oacel

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/b90189e01f59485d918f0413e8695993/artifacts
+deleted_time: 1747443834642
+end_time: 1747443224478
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: b90189e01f59485d918f0413e8695993
+run_name: languid-sloth-154
+run_uuid: b90189e01f59485d918f0413e8695993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443224421
+status: 4
+tags: []
+user_id: oacel

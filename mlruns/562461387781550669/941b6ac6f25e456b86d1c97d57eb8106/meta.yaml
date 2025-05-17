@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/941b6ac6f25e456b86d1c97d57eb8106/artifacts
+deleted_time: 1747443834611
+end_time: 1747443339790
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 941b6ac6f25e456b86d1c97d57eb8106
+run_name: bustling-zebra-182
+run_uuid: 941b6ac6f25e456b86d1c97d57eb8106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443337389
+status: 3
+tags: []
+user_id: oacel

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/6adfcfc1829f4d568181b7b111c52448/artifacts
+deleted_time: 1747443834572
+end_time: 1747443547655
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 6adfcfc1829f4d568181b7b111c52448
+run_name: ClasificadorDemoDiabetes_practica_06
+run_uuid: 6adfcfc1829f4d568181b7b111c52448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443545117
+status: 3
+tags: []
+user_id: oacel

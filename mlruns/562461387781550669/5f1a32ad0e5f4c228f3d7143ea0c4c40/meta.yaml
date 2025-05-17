@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/5f1a32ad0e5f4c228f3d7143ea0c4c40/artifacts
+deleted_time: 1747443834632
+end_time: 1747443322716
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 5f1a32ad0e5f4c228f3d7143ea0c4c40
+run_name: bouncy-fly-111
+run_uuid: 5f1a32ad0e5f4c228f3d7143ea0c4c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443320280
+status: 3
+tags: []
+user_id: oacel

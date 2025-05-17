@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/ca3ad4150a0944089e7a1386fda23c6e/artifacts
+deleted_time: 1747443834600
+end_time: 1747443350907
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: ca3ad4150a0944089e7a1386fda23c6e
+run_name: thundering-bird-435
+run_uuid: ca3ad4150a0944089e7a1386fda23c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443348362
+status: 3
+tags: []
+user_id: oacel

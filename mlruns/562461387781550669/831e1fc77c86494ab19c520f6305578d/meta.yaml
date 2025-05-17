@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/831e1fc77c86494ab19c520f6305578d/artifacts
+deleted_time: 1747443834599
+end_time: 1747443353510
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 831e1fc77c86494ab19c520f6305578d
+run_name: vaunted-rat-329
+run_uuid: 831e1fc77c86494ab19c520f6305578d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443350927
+status: 3
+tags: []
+user_id: oacel

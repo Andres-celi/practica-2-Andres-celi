@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/6778e48414414141900405ff40a5498c/artifacts
+deleted_time: 1747443834615
+end_time: 1747443337372
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 6778e48414414141900405ff40a5498c
+run_name: vaunted-gnu-974
+run_uuid: 6778e48414414141900405ff40a5498c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443334983
+status: 3
+tags: []
+user_id: oacel

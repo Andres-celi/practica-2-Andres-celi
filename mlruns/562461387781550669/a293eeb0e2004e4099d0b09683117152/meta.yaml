@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/a293eeb0e2004e4099d0b09683117152/artifacts
+deleted_time: 1747443834632
+end_time: 1747443320265
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: a293eeb0e2004e4099d0b09683117152
+run_name: victorious-calf-984
+run_uuid: a293eeb0e2004e4099d0b09683117152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443317867
+status: 3
+tags: []
+user_id: oacel

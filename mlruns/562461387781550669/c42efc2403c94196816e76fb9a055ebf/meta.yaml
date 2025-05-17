@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/c42efc2403c94196816e76fb9a055ebf/artifacts
+deleted_time: 1747443834645
+end_time: 1747443168169
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: c42efc2403c94196816e76fb9a055ebf
+run_name: overjoyed-mink-719
+run_uuid: c42efc2403c94196816e76fb9a055ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443168111
+status: 4
+tags: []
+user_id: oacel

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/a8ca94f2a4424f4a8c44f58c0412f0db/artifacts
+deleted_time: 1747443834635
+end_time: 1747443317846
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: a8ca94f2a4424f4a8c44f58c0412f0db
+run_name: handsome-bee-752
+run_uuid: a8ca94f2a4424f4a8c44f58c0412f0db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443315446
+status: 3
+tags: []
+user_id: oacel

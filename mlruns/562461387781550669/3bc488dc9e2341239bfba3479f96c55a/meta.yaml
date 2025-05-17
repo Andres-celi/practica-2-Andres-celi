@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/3bc488dc9e2341239bfba3479f96c55a/artifacts
+deleted_time: 1747443834637
+end_time: 1747443242439
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 3bc488dc9e2341239bfba3479f96c55a
+run_name: useful-eel-763
+run_uuid: 3bc488dc9e2341239bfba3479f96c55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443242388
+status: 4
+tags: []
+user_id: oacel

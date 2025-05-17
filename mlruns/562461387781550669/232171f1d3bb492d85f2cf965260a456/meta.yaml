@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/232171f1d3bb492d85f2cf965260a456/artifacts
+deleted_time: 1747443834598
+end_time: 1747443356031
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 232171f1d3bb492d85f2cf965260a456
+run_name: salty-gnat-696
+run_uuid: 232171f1d3bb492d85f2cf965260a456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443353527
+status: 3
+tags: []
+user_id: oacel

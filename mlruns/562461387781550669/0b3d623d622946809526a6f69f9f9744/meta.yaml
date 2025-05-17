@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/0b3d623d622946809526a6f69f9f9744/artifacts
+deleted_time: 1747443834620
+end_time: 1747443332560
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: 0b3d623d622946809526a6f69f9f9744
+run_name: hilarious-elk-25
+run_uuid: 0b3d623d622946809526a6f69f9f9744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443330225
+status: 3
+tags: []
+user_id: oacel

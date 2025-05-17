@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/b3ab5d66b38048848fdd76a3dd5e24e4/artifacts
+deleted_time: 1747443834618
+end_time: 1747443334967
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: b3ab5d66b38048848fdd76a3dd5e24e4
+run_name: melodic-hare-535
+run_uuid: b3ab5d66b38048848fdd76a3dd5e24e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443332574
+status: 3
+tags: []
+user_id: oacel

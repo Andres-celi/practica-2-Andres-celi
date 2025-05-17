@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/562461387781550669/a8d6b3650ecb4c6bae3f6f5a98fe15fc/artifacts
+deleted_time: 1747443834590
+end_time: 1747443363596
+entry_point_name: ''
+experiment_id: '562461387781550669'
+lifecycle_stage: deleted
+run_id: a8d6b3650ecb4c6bae3f6f5a98fe15fc
+run_name: sassy-eel-185
+run_uuid: a8d6b3650ecb4c6bae3f6f5a98fe15fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443361090
+status: 3
+tags: []
+user_id: oacel
